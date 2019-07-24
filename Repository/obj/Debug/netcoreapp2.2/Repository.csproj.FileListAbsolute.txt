@@ -1,0 +1,28 @@
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

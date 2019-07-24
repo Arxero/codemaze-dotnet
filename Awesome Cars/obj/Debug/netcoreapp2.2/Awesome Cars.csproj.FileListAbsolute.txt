@@ -1,0 +1,42 @@
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.deps.json
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.runtimeconfig.json
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.runtimeconfig.dev.json
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csprojAssemblyReference.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorAssemblyInfo.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorAssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.AssemblyInfoInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.AssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorTargetAssemblyInfo.cache
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csproj.CopyComplete
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.dll
+C:\Users\Maverick\Documents\C# Tutorials\Awesome Cars\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.deps.json
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.runtimeconfig.json
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.runtimeconfig.dev.json
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Awesome Cars.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csprojAssemblyReference.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorAssemblyInfo.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorAssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.AssemblyInfoInputs.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.AssemblyInfo.cs
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.RazorTargetAssemblyInfo.cache
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.csproj.CopyComplete
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.dll
+C:\Users\Maverick\Documents\C# Tutorials\codemaze-dotnet\Awesome Cars\obj\Debug\netcoreapp2.2\Awesome Cars.pdb
